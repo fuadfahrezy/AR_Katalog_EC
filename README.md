@@ -1,2 +1,2 @@
 # AR_Katalog_EC
-Augemented Reality Katalog Electronic City Berbasis Android
+Script Augemented Reality Katalog Electronic City Berbasis Android
